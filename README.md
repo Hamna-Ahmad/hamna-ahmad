@@ -1,4 +1,4 @@
-# Hi, I'm Hamna! 👋🙋🏽‍♀️
+# Hi, I'm Hamna! 🙋🏽‍♀️
 
 ![Sample Image](Banner.png)
 
