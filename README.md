@@ -1,8 +1,8 @@
-# Hi, I'm Hamna! 👋
+# Hi, I'm Hamna! 👋🙋🏽‍♀️
 
-![Sample Image](https://ibb.co/xSR5K8m)
+![Sample Image](Banner.png)
 
-## 🧕🏽 About Me
+## About Me
 
 I'm a self-taught **Front-End Developer** from **Sydney, Australia** with a passion for crafting user-friendly and visually captivating websites. With a focus on clean code and continuous learning, I enjoy translating design concepts into visually appealing and functional digital experiences.
 
@@ -13,6 +13,9 @@ I've got a keen eye for design and a love for experimenting with colours, which 
 - 👩🏽‍💻 Looking for opportunities!
 - 🌱 I’m currently learning _React.js_
 - ⚡️ Fun fact: _I'm the rare breed who loves CSS_
+
+[![](https://media.istockphoto.com/id/983389482/vector/email-icon-special-purple-round-button.jpg?s=170667a&w=0&k=20&c=wRkh2v9E6zcDo587h4k5lITF-zL6FBTYhD68SG9jTz0=)](official.hamna.ahmad@gmail.com)
+
 
 ## My Skill-set
 
@@ -42,19 +45,3 @@ If you're working on an exciting project and think my skills and expertise align
 
 Thank you for visiting my GitHub profile. I hope you find my projects and contributions inspiring. Stay curious, keep coding, and make a difference!
 
-
-
-<!--
-**Hamna-Ahmad/hamna-ahmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
