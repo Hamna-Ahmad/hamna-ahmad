@@ -1,5 +1,7 @@
 # Hi, I'm Hamna! 👋
 
+![Sample Image](https://ibb.co/xSR5K8m)
+
 ## 🧕🏽 About Me
 
 I'm a self-taught **Front-End Developer** from **Sydney, Australia** with a passion for crafting user-friendly and visually captivating websites. With a focus on clean code and continuous learning, I enjoy translating design concepts into visually appealing and functional digital experiences.
