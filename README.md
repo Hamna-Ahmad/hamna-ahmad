@@ -14,9 +14,6 @@ I've got a keen eye for design and a love for experimenting with colours, which 
 - 🌱 I’m currently learning _React.js_
 - ⚡️ Fun fact: _I'm the rare breed who loves CSS_
 
-[![](https://media.istockphoto.com/id/983389482/vector/email-icon-special-purple-round-button.jpg?s=170667a&w=0&k=20&c=wRkh2v9E6zcDo587h4k5lITF-zL6FBTYhD68SG9jTz0=)](official.hamna.ahmad@gmail.com)
-
-
 ## My Skill-set
 
 - **Language**: I'm proficient in JavaScript, and I'm always excited to learn and explore new programming languages.
